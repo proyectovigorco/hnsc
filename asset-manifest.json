@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hnsc/static/css/main.2d6fd6cf.chunk.css",
+    "main.js": "/hnsc/static/js/main.67693150.chunk.js",
+    "main.js.map": "/hnsc/static/js/main.67693150.chunk.js.map",
+    "runtime-main.js": "/hnsc/static/js/runtime-main.f114e6a5.js",
+    "runtime-main.js.map": "/hnsc/static/js/runtime-main.f114e6a5.js.map",
+    "static/js/2.d93cacf6.chunk.js": "/hnsc/static/js/2.d93cacf6.chunk.js",
+    "static/js/2.d93cacf6.chunk.js.map": "/hnsc/static/js/2.d93cacf6.chunk.js.map",
+    "index.html": "/hnsc/index.html",
+    "static/css/main.2d6fd6cf.chunk.css.map": "/hnsc/static/css/main.2d6fd6cf.chunk.css.map",
+    "static/js/2.d93cacf6.chunk.js.LICENSE.txt": "/hnsc/static/js/2.d93cacf6.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.669ffbe1.svg": "/hnsc/static/media/arrow-right.669ffbe1.svg",
+    "static/media/bar-chart-line-fill.5a41b6ec.svg": "/hnsc/static/media/bar-chart-line-fill.5a41b6ec.svg",
+    "static/media/delete.9137dae7.svg": "/hnsc/static/media/delete.9137dae7.svg",
+    "static/media/exclamation.7efd0ac0.svg": "/hnsc/static/media/exclamation.7efd0ac0.svg",
+    "static/media/lock.6f1d76c8.svg": "/hnsc/static/media/lock.6f1d76c8.svg",
+    "static/media/menu-icon.9dbc5a3a.svg": "/hnsc/static/media/menu-icon.9dbc5a3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f114e6a5.js",
+    "static/js/2.d93cacf6.chunk.js",
+    "static/css/main.2d6fd6cf.chunk.css",
+    "static/js/main.67693150.chunk.js"
+  ]
+}
